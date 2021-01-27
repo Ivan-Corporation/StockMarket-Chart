@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/StockMarket-Chart/static/css/main.46698979.chunk.css",
+    "main.js": "/StockMarket-Chart/static/js/main.1db2e37b.chunk.js",
+    "main.js.map": "/StockMarket-Chart/static/js/main.1db2e37b.chunk.js.map",
+    "runtime-main.js": "/StockMarket-Chart/static/js/runtime-main.c2813be7.js",
+    "runtime-main.js.map": "/StockMarket-Chart/static/js/runtime-main.c2813be7.js.map",
+    "static/js/2.5ec01a57.chunk.js": "/StockMarket-Chart/static/js/2.5ec01a57.chunk.js",
+    "static/js/2.5ec01a57.chunk.js.map": "/StockMarket-Chart/static/js/2.5ec01a57.chunk.js.map",
+    "index.html": "/StockMarket-Chart/index.html",
+    "static/css/main.46698979.chunk.css.map": "/StockMarket-Chart/static/css/main.46698979.chunk.css.map",
+    "static/js/2.5ec01a57.chunk.js.LICENSE.txt": "/StockMarket-Chart/static/js/2.5ec01a57.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2813be7.js",
+    "static/js/2.5ec01a57.chunk.js",
+    "static/css/main.46698979.chunk.css",
+    "static/js/main.1db2e37b.chunk.js"
+  ]
+}
